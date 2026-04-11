@@ -16,6 +16,7 @@
               "icon": "lucide-git-fork",
               "title": "Graph-Ansicht"
             }
+<<<<<<< HEAD
           },
           {
             "id": "45ac1b1a68e42baa",
@@ -30,9 +31,10 @@
               "icon": "lucide-file",
               "title": "Representations"
             }
+=======
+>>>>>>> 00a62d2795f36d3361f276c02c7337fb02983433
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +176,7 @@
             }
           },
           {
-            "id": "715e6b9cb8306870",
+            "id": "53614bae93ec61c5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -202,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45ac1b1a68e42baa",
+  "active": "0bcfd846542a191c",
   "lastOpenFiles": [
     "test.md",
     "FDO.md",

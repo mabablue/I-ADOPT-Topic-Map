@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "FDO-Profile"
             }
+          },
+          {
+            "id": "47bebb1f7e88dbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25deebcd948836af",
+  "active": "47bebb1f7e88dbbe",
   "lastOpenFiles": [
+    "FDO-Profile.md",
+    "conflict-files-obsidian-git.md",
+    "To Dos.md",
     "I-ADOPT Repositories.md",
     "I-ADOPT Ontology.md",
-    "I-ADOPT Corpus.md",
-    "FDO-Profile.md"
+    "I-ADOPT Corpus.md"
   ]
 }

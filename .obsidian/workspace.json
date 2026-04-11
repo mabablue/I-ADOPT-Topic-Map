@@ -25,10 +25,14 @@
             "id": "94433b3516e36ee9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
         ],
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "not",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,9 +209,9 @@
   },
   "active": "94433b3516e36ee9",
   "lastOpenFiles": [
+    "To Dos.md",
     "conflict-files-obsidian-git.md",
     "ReadMe.md",
-    "To Dos.md",
     "Development Stages.md",
     "I-ADOPT SKOSMOS.md",
     "I-ADOPT Service.md",

@@ -18,3 +18,6 @@ Here are some steps to get started if you have not used git before. Note that th
 
 ### Windows and macOS
 For users of Windows and macOS I recommend downloading [Github Desktop](https://desktop.github.com/download/). After login, you can follow [this guide](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) to clone the repository.
+
+### Using Git with Obsidian
+Open Obsidian Preferences, go to External Extensions, Community Extensions and install GIT, then activate it.

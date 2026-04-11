@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: nynxm-prwzz
+created: 2026-04-11T12:46:23+02:00

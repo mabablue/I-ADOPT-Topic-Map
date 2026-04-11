@@ -5,7 +5,8 @@ This repository contains the I-ADOPT Topic Mapp, which is a shared Obsidian Vaul
 2. Clone this Repository. If you are unfamiliar with git and have not used this before, some additional steps will be required; see below. If you are already using Obsidian, make sure that the folder is not inside of another Vault.
 3. 3. In Obsidian, open the repository as a Vault:
 
-![Pasted image 20251029122712.png|200](Attachments/Readme.png)
+<img width="674" height="619" alt="image" src="https://github.com/user-attachments/assets/b0231d6d-ad95-4826-89f1-0ef47a45a38b" />
+
 
 4. Follow further instructions for the initial setup and usage guidelines at the Homepage from within Obsidian.
 

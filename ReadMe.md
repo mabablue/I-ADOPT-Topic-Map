@@ -8,9 +8,8 @@ This repository contains the I-ADOPT Topic Mapp, which is a shared Obsidian Vaul
 <img width="674" height="619" alt="image" src="https://github.com/user-attachments/assets/b0231d6d-ad95-4826-89f1-0ef47a45a38b" />
 
 
-4. Follow further instructions for the initial setup and usage guidelines at the Homepage from within Obsidian.
 
-For any questions or issues with regards to the setup process, you can contact @dariobijker through Mattermost.
+4. Follow further instructions for the initial setup and usage guidelines at the Homepage from within Obsidian.
 
 -----
 

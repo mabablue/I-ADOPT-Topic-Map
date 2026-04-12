@@ -15,12 +15,3 @@ To be done:
 neuer versuch
 ich liebe dich auch
 
-=======
-test
->>>>>>> origin/main
->>>>>>
-<<<<<<< HEAD
->>>>>>ich mache jetzt weiter 
-=======
->>>>>>skadfalöfdsalö
->>>>>>> origin/main

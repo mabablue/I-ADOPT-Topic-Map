@@ -11,14 +11,14 @@
             "id": "5a4f20cc4ab505be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Variable.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Variable.md",
+                "bFile": "Variable.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Variable"
+              "icon": "diff",
+              "title": "Diff: Variable  (Working Tree)"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Variable"
+              "title": "Rückverweise"
             }
           },
           {
@@ -194,8 +193,8 @@
   },
   "active": "5a4f20cc4ab505be",
   "lastOpenFiles": [
-    "I-ADOPT Corpus.md",
     "Variable.md",
+    "I-ADOPT Corpus.md",
     "conflict-files-obsidian-git.md",
     "I-ADOPT ontology classes.md",
     "I-ADOPT Ontology.md",

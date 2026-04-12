@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Variable"
             }
           },
           {
@@ -191,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f90fe72418bdf64d",
+  "active": "f38ea5efd0a71791",
   "lastOpenFiles": [
-    "Variable.md",
     "conflict-files-obsidian-git.md",
+    "Variable.md",
     "I-ADOPT Corpus.md",
     "I-ADOPT ontology classes.md",
     "I-ADOPT Ontology.md",

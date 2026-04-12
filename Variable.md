@@ -21,5 +21,5 @@ und jetzt ich
 gdjsaaj
 
 und ncoh was
->>>>>>> origin/main
+
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8ad521ced5b721",
+        "id": "59b69c2cf91d6156",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a8b8435b502df0",
+            "id": "4ce378aa75ade7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I-ADOPT Corpus.md",
+                "file": "Variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I-ADOPT Corpus"
+              "title": "Variable"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I-ADOPT corpu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0a8b8435b502df0",
+  "active": "4ce378aa75ade7e4",
   "lastOpenFiles": [
+    "To Dos.md",
     "I-ADOPT Corpus.md",
     "conflict-files-obsidian-git.md",
-    "To Dos.md",
     "I-ADOPT Ontology.md",
     "ReadMe.md",
     "Development Stages.md",

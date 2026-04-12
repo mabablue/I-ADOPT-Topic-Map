@@ -16,3 +16,5 @@ To be done:
 =======
 test
 >>>>>>> origin/main
+>>>>>>
+>>>>>>skadfalöfdsalö

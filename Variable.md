@@ -17,4 +17,8 @@ To be done:
 test
 >>>>>>> origin/main
 >>>>>>
+<<<<<<< HEAD
 >>>>>>ich mache jetzt weiter 
+=======
+>>>>>>skadfalöfdsalö
+>>>>>>> origin/main

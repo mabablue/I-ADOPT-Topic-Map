@@ -10,16 +10,6 @@ To be done:
 - [ ] we need to decide about their identifiers see [[Variable Postfix]]
 - [ ] we need to decide how to handle them in SKOS Vocabularies
 - [ ] we need to decide what are the minimum [[I-ADOPT Variable Requirements]] to be accepted as an I-ADOPT variable
-<<<<<<< HEAD
-- [ ] test2
-neuer versuch
-ich liebe dich auch
 
-Tralilala
-und jetzt ich
-
-gdjsaaj
-
-und ncoh was
 
 

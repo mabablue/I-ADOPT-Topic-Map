@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I-ADOPT Framework.md",
+                "file": "Variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I-ADOPT Framework"
+              "title": "Variable"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "d5aa7502ce5d7c1a",
   "lastOpenFiles": [
+    "I-ADOPT Framework.md",
     "Variable.md",
     "To Dos.md",
     "I-ADOPT Corpus.md",
@@ -206,7 +207,6 @@
     "I-ADOPT Repositories.md",
     "I-ADOPT ontology classes.md",
     "I-ADOPT Guideline.md",
-    "I-ADOPT Framework.md",
     "I-ADOPT API.md",
     "ToDos",
     "FDO-Profile.md",

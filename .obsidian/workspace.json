@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f89395d4a1d6e05b",
+        "id": "39ad53c12a4e10c0",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4f20cc4ab505be",
+            "id": "d5aa7502ce5d7c1a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Variable.md",
-                "bFile": "Variable.md",
-                "aRef": ""
+                "file": "Variable.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Variable  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Variable"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variab",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,27 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a4f20cc4ab505be",
+  "active": "d5aa7502ce5d7c1a",
   "lastOpenFiles": [
     "Variable.md",
+    "To Dos.md",
     "I-ADOPT Corpus.md",
     "conflict-files-obsidian-git.md",
-    "I-ADOPT ontology classes.md",
     "I-ADOPT Ontology.md",
+    "ReadMe.md",
+    "Development Stages.md",
+    "I-ADOPT SKOSMOS.md",
+    "I-ADOPT Service.md",
+    "I-ADOPT Repositories.md",
+    "I-ADOPT ontology classes.md",
+    "I-ADOPT Guideline.md",
     "I-ADOPT Framework.md",
-    "Matrix Patterns.md",
-    "Nanopublication.md",
-    "Object of Interest.md",
-    "Object of Interest Patterns.md",
-    "OGC specification.md",
-    "Property.md",
-    "Variable Identifier.md",
-    "Variable Design Pattern.md",
-    "Turtle.md",
-    "2026-04-12.md",
-    "Unbenannt.canvas",
-    "To Dos.md",
+    "I-ADOPT API.md",
+    "ToDos",
     "FDO-Profile.md",
-    "I-ADOPT Repositories.md"
+    "I-ADOPT Visualizer.md"
   ]
 }

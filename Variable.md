@@ -19,6 +19,10 @@ Tralilala
 und jetzt ich
 
 gdjsaaj
+<<<<<<< HEAD
 hsakjlsa
 
+=======
+und ncoh was
+>>>>>>> origin/main
 

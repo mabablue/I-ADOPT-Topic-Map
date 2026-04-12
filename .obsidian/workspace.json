@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "To Dos"
             }
+          },
+          {
+            "id": "e24516aa7e32d1bf",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,11 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4745471d9065cfa9",
+  "active": "e24516aa7e32d1bf",
   "lastOpenFiles": [
-    "I-ADOPT Corpus.md",
-    "To Dos.md",
     "conflict-files-obsidian-git.md",
+    "To Dos.md",
+    "I-ADOPT Corpus.md",
     "FDO-Profile.md",
     "I-ADOPT Repositories.md",
     "I-ADOPT Ontology.md"

@@ -1,0 +1,24 @@
+# exclude workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# exclude OS settings and caches
+.trash/
+.DS_Store
+
+# exclude notes author (everyone should have their own) and Untitled.md, Untitled.base, Untitled.canvas (these will spawn all the time)
+Templates/Author.md
+Untitled.md
+Untitled.base
+Untitled.canvas
+
+# exlude user data
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/publish.json
+.obsidian/plugins/recent-files-obsidian/
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# exlude syncthing
+.stfolder/

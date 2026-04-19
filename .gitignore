@@ -14,7 +14,6 @@ Untitled.canvas
 
 # exlude user data
 .obsidian/appearance.json
-.obsidian/graph.json
 .obsidian/publish.json
 .obsidian/plugins/recent-files-obsidian/
 .obsidian/plugins/recent-files-obsidian/data.json

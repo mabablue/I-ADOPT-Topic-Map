@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16646016
       }
+    },
+    {
+      "query": "[\"status\": ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
   "collapse-display": false,

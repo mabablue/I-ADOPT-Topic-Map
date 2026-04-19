@@ -1,6 +1,9 @@
-
-#Status/DesignPhase 
-
+---
+status: not started
+people:
+  - Barbara
+  - Sirko
+---
 Constraint needs to be minimally represented using blank nodes:
 
 [

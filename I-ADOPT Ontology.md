@@ -1,5 +1,6 @@
-#Status/Monitoring 
-
+---
+status: Monitoring
+---
 The homepage of the I-ADOPT Ontology is [here](https://i-adopt.github.io/ontology/)
 The namespace of the I-ADOPT Ontology is [https://w3id.org/iadopt/ont/](https://w3id.org/iadopt/ont/)
 

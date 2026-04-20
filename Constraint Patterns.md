@@ -1,5 +1,5 @@
 ---
-phase: review
+status: Review
 people:
   - Sirko
 ---

@@ -1,5 +1,7 @@
+---
+status: Review
+---
 
-#Status/ReviewPhase 
 
 There are different Variable Design Patterns for most classes of the ontology.
 

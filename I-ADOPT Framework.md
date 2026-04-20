@@ -1,4 +1,7 @@
-#Status/PlanningPhase 
+---
+status: Planning Phase
+---
+
 The I-ADOPT Framework is composed by:
 
 - an [[I-ADOPT Ontology]]

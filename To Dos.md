@@ -4,6 +4,8 @@
 ```tasks
 show tree
 not done
+group by function task.file.property('status') ? task.file.property('status') : "No Status"
+group by function task.file.property('people') ? "Collaborators: " + task.file.property('people') : "Unassigned"
 ```
 
 
@@ -16,7 +18,7 @@ done
 
 # Add To Do's
 
-- [ ] I-ADOPT API #People/Sirko #People/Clement 
+- [x] I-ADOPT API #People/Sirko #People/Clement ✅ 2026-04-20
 - [ ] I-ADOPT SKOSMOS #People/Sirko 
 - [ ] OGC Specification #People/Barbara #People/Kathi
 - [ ] Variable PostFix #People/Sirko #People/Tobias 

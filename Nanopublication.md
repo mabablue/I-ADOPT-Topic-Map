@@ -1,4 +1,8 @@
-#Status/ExtensionPhase #People/Tobias 
+---
+status: Extension Phase
+People:
+  - Tobias
+---
 
 The nanopublication provides variables in RDF and named graphs but also a consistent [[Variable Identifier]]
 

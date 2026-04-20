@@ -1,4 +1,7 @@
-#Status/Monitoring 
+---
+status: Monitoring
+---
+
 An [Entity](https://w3id.org/iadopt/ont/Entity) can have different roles using the object properties
 [hasObjectOfInterest](https://w3id.org/iadopt/ont/hasObjectOfInterest)
 [hasMatrix](https://w3id.org/iadopt/ont/hasMatrix)

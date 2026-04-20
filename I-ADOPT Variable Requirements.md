@@ -1,4 +1,8 @@
-#Status/DesignPhase   #People/Sirko
+---
+status: Design Phase
+People:
+  - Sirko
+---
 
 - it must be an instance of https://w3id.org/iadopt/ont/Variable
 - It must be decomposed  at least into one [[Property]] and one [[Object of Interest]]

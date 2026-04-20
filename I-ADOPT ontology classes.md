@@ -1,4 +1,7 @@
-#Status/Monitoring 
+---
+status: Monitoring
+---
+
 - [[Variable]]
 - [[Property]]
 -  [[Entity]] 

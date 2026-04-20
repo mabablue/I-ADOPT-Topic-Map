@@ -1,4 +1,6 @@
-#Status/ExtensionPhase 
+---
+status: Extension Phase
+---
 
 Existing:
 - [[I-ADOPT Service]]

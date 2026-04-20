@@ -1,3 +1,3 @@
 ---
-status: test
+People: test
 ---

@@ -25,3 +25,7 @@ done
 - [ ] I-ADOPT Requirements #People/Barbara #People/Barbara 
 - [ ] I-ADOPT Service optimize results #People/Arvin
 - [ ] I-ADOPT Patterns check #People/Barbara #People/Stuart
+- [ ] improve precision of object of interest
+- [ ] work on the fairifying the constraint
+- [ ] making patterns machine readable - shacl
+- [ ] 

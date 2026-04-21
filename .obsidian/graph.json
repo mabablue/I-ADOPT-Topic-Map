@@ -3,57 +3,15 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Status/NotStarted",
+      "query": "[status: not started]",
       "color": {
         "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#Status/PlanningPhase  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#Status/Monitoring  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#Status/DesignPhase  ",
-      "color": {
-        "a": 1,
-        "rgb": 9264342
-      }
-    },
-    {
-      "query": "tag:#Status/ReviewPhase  ",
-      "color": {
-        "a": 1,
-        "rgb": 6082262
-      }
-    },
-    {
-      "query": "tag:#Status/ExtensionPhase  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048425
-      }
-    },
-    {
-      "query": "tag:#Status/Prototyping  ",
-      "color": {
-        "a": 1,
-        "rgb": 16646016
+        "rgb": 14701138
       }
     }
   ],
@@ -67,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224486,
-  "close": false
+  "scale": 1.1370544221019405,
+  "close": true
 }

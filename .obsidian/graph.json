@@ -8,52 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Status/NotStarted",
+      "query": "[status: Planning]",
+      "color": {
+        "a": 1,
+        "rgb": 6058198
+      }
+    },
+    {
+      "query": "[status: Review]",
+      "color": {
+        "a": 1,
+        "rgb": 13524182
+      }
+    },
+    {
+      "query": "[status: not started]",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#Status/PlanningPhase  ",
+      "query": "[status: Monitoring]",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 15988085
       }
     },
     {
-      "query": "tag:#Status/Monitoring  ",
+      "query": "[status: fixed]",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 1636157
       }
     },
     {
-      "query": "tag:#Status/DesignPhase  ",
+      "query": "[status: Extension]",
       "color": {
         "a": 1,
-        "rgb": 9264342
+        "rgb": 15961648
       }
     },
     {
-      "query": "tag:#Status/ReviewPhase  ",
+      "query": "[status: Design]",
       "color": {
         "a": 1,
-        "rgb": 6082262
-      }
-    },
-    {
-      "query": "tag:#Status/ExtensionPhase  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048425
-      }
-    },
-    {
-      "query": "tag:#Status/Prototyping  ",
-      "color": {
-        "a": 1,
-        "rgb": 16646016
+        "rgb": 6074838
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224486,
+  "scale": 0.7132754626224488,
   "close": false
 }

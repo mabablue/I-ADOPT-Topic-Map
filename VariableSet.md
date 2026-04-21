@@ -1,3 +1,3 @@
 ---
-status: Design Phase
+status: Design
 ---

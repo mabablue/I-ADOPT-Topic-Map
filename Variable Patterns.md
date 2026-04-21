@@ -1,5 +1,5 @@
 ---
-status: Design Phase
+status: Design
 ---
 
 Need to be represented in Shacl

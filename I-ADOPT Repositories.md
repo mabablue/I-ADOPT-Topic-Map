@@ -1,5 +1,5 @@
 ---
-status: Design Phase
+status: Design
 ---
 
 There are different places where variables can be stored:

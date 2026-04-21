@@ -1,8 +1,6 @@
 ---
 status: Review
 ---
-
-
 There are different Variable Design Patterns for most classes of the ontology.
 
 - [[Property Patterns]]
@@ -11,3 +9,5 @@ There are different Variable Design Patterns for most classes of the ontology.
 - [[Context Patterns]]
 - [[Variable Patterns]]
 - [[Constraint Patterns]]
+
+Patterns must made machine readable: [[MachineReadablePattern]]

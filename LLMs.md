@@ -1,3 +1,3 @@
 ---
-status: Extension Phase
+status: Extension
 ---

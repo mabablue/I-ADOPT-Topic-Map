@@ -1,5 +1,5 @@
 ---
-status: Extension Phase
+status: Extension
 ---
 
 Only graphical:

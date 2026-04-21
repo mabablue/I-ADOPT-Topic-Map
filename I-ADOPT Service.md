@@ -1,5 +1,5 @@
 ---
-status: Design Phase
+status: Design
 ---
 
 The GitHub repo is [here](https://github.com/ArvinRastegar/i-adopt-service-website)

@@ -1,5 +1,5 @@
 ---
-status: Design Phase
+status: Design
 People:
   - Sirko
 ---

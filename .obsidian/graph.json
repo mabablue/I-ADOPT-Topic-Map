@@ -1,72 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "[status: Planning]",
-      "color": {
-        "a": 1,
-        "rgb": 6058198
-      }
-    },
-    {
-      "query": "[status: Review]",
-      "color": {
-        "a": 1,
-        "rgb": 13524182
-      }
-    },
-    {
-      "query": "[status: not started]",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "[status: Monitoring]",
-      "color": {
-        "a": 1,
-        "rgb": 15988085
-      }
-    },
-    {
-      "query": "[status: fixed]",
-      "color": {
-        "a": 1,
-        "rgb": 1636157
-      }
-    },
-    {
-      "query": "[status: Extension]",
-      "color": {
-        "a": 1,
-        "rgb": 15961648
-      }
-    },
-    {
-      "query": "[status: Design]",
-      "color": {
-        "a": 1,
-        "rgb": 6074838
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224488,
+  "scale": 1,
   "close": false
 }

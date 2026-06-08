@@ -1,0 +1,1 @@
+checking if the variable exists already

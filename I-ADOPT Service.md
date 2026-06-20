@@ -12,8 +12,8 @@ It makes use of the [[I-ADOPT Visualizer]]. The result can be exported in differ
 
 It has different modules:
 [[Variable input]]
-[[Semantic preference]]
 [[Check completeness]]
+[[Semantic preference]]
 [[Extract]]
 [[Find]]
 [[Visualize]]

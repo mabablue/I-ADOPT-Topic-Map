@@ -9,6 +9,8 @@ There are different Variable Design Patterns for most classes of the ontology.
 - [[Context Patterns]]
 - [[Variable Patterns]]
 - [[Constraint Patterns]]
-- [[yaml pattern representation]]
+- [[yaml decision tree representation]]
+- [[yaml pattern description]]
+- 
 
 Patterns must made machine readable: [[MachineReadablePattern]]

@@ -1,0 +1,1 @@
+One of the key differences between traditional Conceptual Modeling and Ontology-Driven Conceptual Modeling is that while the former only supports description (of a domain conceptualisation), the latter also support explanation! (Giancarlo Guizzardi)
